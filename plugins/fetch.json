@@ -1,0 +1,31 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.camera": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.camera"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.phonegap.plugins.barcodescanner": {
+        "source": {
+            "type": "git",
+<<<<<<< Updated upstream
+            "url": "https://github.com/phonegap/phonegap-plugin-barcodescanner",
+=======
+            "url": "https://github.com/wildabeast/BarcodeScanner.git",
+>>>>>>> Stashed changes
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
