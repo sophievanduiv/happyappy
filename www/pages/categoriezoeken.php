@@ -4,8 +4,7 @@
 </header>
 
 <!--Overview top 5-->
-<!--Basic setup for database later (php code needed)-->
+<!--Result for the categorie search-->
 <div class="container">
-    <div class="deviceready todocontent suggestiecontent">
-    </div>
+    <div class="deviceready categorieresult suggestiecontent"></div>
 </div>
